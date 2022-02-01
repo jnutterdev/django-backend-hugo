@@ -7,4 +7,3 @@ Uses the following:
 - Python 3.9.10
 - Django 4.0.1
 - Poetry 1.1.6
-- django-markdown x
